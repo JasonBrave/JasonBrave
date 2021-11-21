@@ -14,3 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 😄 Pronouns: He/Him
+
+## Programming languages that I use:
+- C
+- C++
+- Java
+- x86 assembly
+
+## Hardware design languages that I use:
+- Verilog
+- SystemVerilog
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=JasonBrave&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=JasonBrave&show_icons=true)
