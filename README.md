@@ -21,11 +21,15 @@ Here are some ideas to get you started:
 - C
 - C++
 - Java
-- x86 assembly
+- x86 Assembly Language
 
 ## Hardware design languages that I use:
 - Verilog
 - SystemVerilog
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=JasonBrave&layout=compact)
-![](https://github-readme-stats.vercel.app/api?username=JasonBrave&show_icons=true)
+## Things I want to learn:
+- Rust
+- RISC-V Assembly Language
+
+![](https://github-readme-stats.vercel.app/api?username=JasonBrave&show_icons=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=JasonBrave&layout=compact&langs_count=10)
