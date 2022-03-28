@@ -30,6 +30,8 @@ Here are some ideas to get you started:
 ## Things I want to learn:
 - Rust
 - RISC-V Assembly Language
+- Software reverse engineering
+- VLSI design
 
 ![](https://github-readme-stats.vercel.app/api?username=JasonBrave&show_icons=true&count_private=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JasonBrave&layout=compact&langs_count=10)
