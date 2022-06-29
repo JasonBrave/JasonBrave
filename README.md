@@ -22,8 +22,9 @@ Here are some ideas to get you started:
 - C++
 - Java
 - x86 Assembly Language
+- JavaScript (ECMAScript)
 
-## Hardware design languages that I use:
+## Hardware description languages that I use:
 - Verilog
 - SystemVerilog
 
@@ -32,6 +33,8 @@ Here are some ideas to get you started:
 - RISC-V Assembly Language
 - Software reverse engineering
 - VLSI design
+- React.js
+- Spring Framework
 
-![](https://github-readme-stats.vercel.app/api?username=JasonBrave&show_icons=true&count_private=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=JasonBrave&layout=compact&langs_count=10)
+![](https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api?username=JasonBrave&show_icons=true&count_private=true&role=OWNER,COLLABORATOR,ORGANIZATION_MEMBER)
+![](https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api/top-langs/?username=JasonBrave&layout=compact&langs_count=10&role=OWNER,COLLABORATOR,ORGANIZATION_MEMBER&exclude_repo=PathPlannerViking,VikingScouter,Instruction)
