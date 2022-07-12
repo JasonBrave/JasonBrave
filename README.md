@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, My name is Jason Xu
 
 <!--
 **JasonBrave/JasonBrave** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,6 +16,11 @@ Here are some ideas to get you started:
 -->
 
 - 😄 Pronouns: He/Him
+- I'm an incoming(fall 2022) Computer Engineering student at University of Waterloo.
+- I enjoy low-level programming and systems programming, including device driver and firmware development, and operating system kernel development.
+- I also enjoy designing digital hardware with SystemVerilog
+- I want to build a personal website
+- I'm looking forward to develop a full-stack website that is useful
 
 ## Programming languages that I use:
 - C
