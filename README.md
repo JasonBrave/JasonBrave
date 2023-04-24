@@ -19,18 +19,20 @@ Here are some ideas to get you started:
 - I'm a first-year Computer Engineering student at University of Waterloo
 - I enjoy low-level programming and systems programming, including device driver and firmware development, and operating system kernel development
 - I also enjoy designing digital hardware with SystemVerilog
+- I design PCB with KiCAD
 - I have created a [personal website](https://jasonbrave.github.io) with GitHub pages
 
 ## Programming languages that I use:
 - C
 - C++
 - Java
-- x86 Assembly Language
+- x86 and RISC-V Assembly Language
 - JavaScript (ECMAScript) and TypeScript
 
 ## Hardware description languages that I use:
 - Verilog
 - SystemVerilog
+- VHDL
 
 ## Web frameworks that I use:
 - React.js
@@ -38,9 +40,8 @@ Here are some ideas to get you started:
 
 ## Things I want to learn:
 - Rust
-- RISC-V Assembly Language
 - Software reverse engineering
 - VLSI design
 
 ![](https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api?username=JasonBrave&show_icons=true&count_private=true&role=OWNER,COLLABORATOR,ORGANIZATION_MEMBER)
-![](https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api/top-langs/?username=JasonBrave&layout=compact&langs_count=10&role=OWNER,COLLABORATOR,ORGANIZATION_MEMBER&exclude_repo=PathPlannerViking,VikingScouter,Instruction)
+![](https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api/top-langs/?username=JasonBrave&layout=compact&langs_count=10&role=OWNER,COLLABORATOR)
