@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 😄 Pronouns: He/Him
-- I'm a first-year Computer Engineering student at University of Waterloo
+- I'm a second-year Computer Engineering student at University of Waterloo
 - I enjoy low-level programming and systems programming, including device driver and firmware development, and operating system kernel development
 - I also enjoy designing digital hardware with SystemVerilog
 - I design PCB with KiCAD
@@ -34,14 +34,5 @@ Here are some ideas to get you started:
 - SystemVerilog
 - VHDL
 
-## Web frameworks that I use:
-- React.js
-- Spring Framework
-
-## Things I want to learn:
-- Rust
-- Software reverse engineering
-- VLSI design
-
-![](https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api?username=JasonBrave&show_icons=true&count_private=true&role=OWNER,COLLABORATOR,ORGANIZATION_MEMBER)
-![](https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api/top-langs/?username=JasonBrave&layout=compact&langs_count=10&role=OWNER,COLLABORATOR)
+![](https://github-readme-stats.vercel.app/api?username=JasonBrave&show_icons=true&count_private=true&role=OWNER,COLLABORATOR,ORGANIZATION_MEMBER)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=JasonBrave&layout=compact&langs_count=10&role=OWNER,COLLABORATOR)
