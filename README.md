@@ -1,7 +1,6 @@
 ### Hi there 👋, My name is Jason Xu
 
 - 😄 Pronouns: He/Him
-- I'm a third-year Computer Engineering student at University of Waterloo
 - I enjoy working on ASIC and FPGA designs with SystemVerilog
 - I also enjoy low-level programming and systems programming, including device driver and firmware development, and operating system kernel development
 - I design PCB with KiCAD
