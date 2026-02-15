@@ -1,6 +1,7 @@
 ### Hi there 👋, My name is Jason Xu
 
 - 😄 Pronouns: He/Him
+- I'm a 4th year computer engineering student at University of Waterloo
 - I enjoy working on ASIC and FPGA designs with SystemVerilog
 - I also enjoy low-level programming and systems programming, including device driver and firmware development, and operating system kernel development
 - I design PCB with KiCAD
@@ -16,5 +17,5 @@
 - SystemVerilog
 - VHDL
 
-![](https://github-readme-stats.vercel.app/api?username=JasonBrave&show_icons=true&count_private=true&role=OWNER,COLLABORATOR,ORGANIZATION_MEMBER)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=JasonBrave&layout=compact&langs_count=10&role=OWNER,COLLABORATOR)
+![](https://github-stats-extended.vercel.app/api?username=JasonBrave&rank_icon=percentile&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue-dark)
+![](https://github-stats-extended.vercel.app/api/top-langs?username=JasonBrave&langs_count=8&disable_animations=true&theme=vue-dark)
